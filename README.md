@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Zachary-IVIonsters_Designs-teal)](https://ivionsters.github.io/Journeys-End/)
 
-#### $${\color{lightblue}Exploring the beauty in the world through technology. \space Blue}Exploring the beauty in the world through technology.$$
+#### $${\color{lightblue}Exploring \space the \space beauty \space in \space the \space world \space through \space technology.}$$
 
 
 
