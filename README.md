@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello,👋 I appreciate you stopping by! Check out my projects!
+
+[![Static Badge](https://img.shields.io/badge/Zachary-IVIonsters_Designs-teal)](https://ivionsters.github.io/Journeys-End/)
+
+
+
+
 
 <!--
 **IVIonsters/IVIonsters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
