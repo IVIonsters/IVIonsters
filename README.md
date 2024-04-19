@@ -8,6 +8,7 @@
 <a href="https://github.com/IVIonsters"><img alt="Github Url" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:zacharypolof@gmail.com"><img alt="Email Me!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/zacharypolof/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/zpolof/"><img alt="Instagram Link" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <!--
 **IVIonsters/IVIonsters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
