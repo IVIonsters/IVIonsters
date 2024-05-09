@@ -1,4 +1,4 @@
-### Hello,👋 I appreciate you stopping by! Check out my projects!
+### Hello,👋🏻 I appreciate you stopping by! Check out my projects!
 
 [![Static Badge](https://img.shields.io/badge/Zachary-IVIonsters_Designs-teal)](https://ivionsters.github.io/Journeys-End/)
 
@@ -8,17 +8,18 @@
 
 ---
 
-### Lets Connect:🤝
+### Lets Connect:📱
 <a href="https://github.com/IVIonsters"><img alt="Github Url" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:zacharypolof@gmail.com"><img alt="Email Me!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/zacharypolof/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/zpolof/"><img alt="Instagram Link" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/zachary.polof"><img alt="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
-- 🌱 I’m currently learning ... Advanced JavaScript, Node , React.
+- 📖 I’m currently learning ... Advanced JavaScript, Node , React.
 
-### 🧰 Languages and Tools
+### 🌐 Languages and Tools
 
+<img align="left" alt="Github" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
