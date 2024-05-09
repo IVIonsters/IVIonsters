@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Zachary-IVIonsters_Designs-teal)](https://ivionsters.github.io/Journeys-End/)
 
-# $${\color{lightblue}Exploring \space the \space beauty \space in \space the \space world \space through \space technology.}$$ 
+#$${\color{lightblue}Exploring \space the \space beauty \space in \space the \space world \space through \space technology.}$$ 
 
 ### I have passion for programming and am constantly looking for ways to expand my knowledge! Relentless in my pursuit to become more knowledgeable about my craft! I enjoy crafting dynamically eventful website's and projects. Real world application and focus are what I strive for in my project concepts. Let's connect and build something to change the world! ☄
 
