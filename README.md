@@ -6,6 +6,8 @@
 
 ### I have passion for programming and am constantly looking for ways to expand my knowledge! Relentless in my pursuit to become more knowledgeable about my craft! I enjoy crafting dynamically eventful website's and projects. Real world application and focus are what I strive for in my project concepts. Let's connect and build something to change the world! ☄
 
+---
+
 ### Lets Connect:🤝
 <a href="https://github.com/IVIonsters"><img alt="Github Url" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:zacharypolof@gmail.com"><img alt="Email Me!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
