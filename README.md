@@ -1,6 +1,6 @@
 ### Hello,👋🏻 I appreciate you stopping by! Check out my projects!
 
-[![Static Badge](https://img.shields.io/badge/Zachary-IVIonsters_Designs-teal)](https://ivionsters.github.io/Journeys-End/)
+[![Static Badge](https://img.shields.io/badge/Zachary-IVIonsters_Designs-teal)]([https://ivionsters.github.io/Journeys-End/](https://ivionstersdesigns.netlify.app/))
 
 ## $${\color{lightblue}Exploring \space the \space beauty \space in \space the \space world \space through \space technology.}$$ 
 
