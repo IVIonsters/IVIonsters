@@ -25,20 +25,23 @@
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![jQuery](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
-![NPM](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837)
-![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED)
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![HTML](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)  
+![CSS](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=7952B3)  
+![jQuery](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jquery&logoColor=0769AD)  
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)  
+![NPM](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837)  
+![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)  
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791)  
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248)  
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED)  
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)  
+![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=FFCA28)  
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-ffffff?style=for-the-badge&logo=chakraui&logoColor=319795)
+
 
 </div>
 
