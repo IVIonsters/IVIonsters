@@ -48,9 +48,9 @@
 ---
 
 ### 📌 Pinned Projects
+- [**VendiQ**](https://github.com/IVIonsters/VendiQ): VendiQ is a modern e-commerece platform designed around niche small scale products.
 - [**IntelliQuest**](https://github.com/IVIonsters/IntelliQuest): A curated platform for developers to access educational resources, track progress, and explore video tutorials.
 - [**Zozzled**](https://github.com/IVIonsters/Zozzled): A feature-rich application for enhancing social interactions.
-- [**KeyCrafter**](https://github.com/IVIonsters/KeyCrafter): A customizable password generator.
 
 ---
 
