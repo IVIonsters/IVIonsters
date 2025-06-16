@@ -48,7 +48,7 @@
 ---
 
 ### 📌 Pinned Projects
-- [**VendiQ**](https://github.com/IVIonsters/VendiQ): VendiQ is a modern e-commerece platform designed around niche small scale products.
+- [**Route-151**](https://github.com/IVIonsters/route-151): A PWA that lets you collect, battle, and trade Pokémon cards. Journey through Route-151 to become the ultimate Pokémon master!
 - [**IntelliQuest**](https://github.com/IVIonsters/IntelliQuest): A curated platform for developers to access educational resources, track progress, and explore video tutorials.
 - [**Zozzled**](https://github.com/IVIonsters/Zozzled): A feature-rich application for enhancing social interactions.
 
